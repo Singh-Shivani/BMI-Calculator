@@ -8,8 +8,8 @@ Here we see how Flutter gives us the ability to customize our app the way we wan
 
 See how it looks!😉
 
-
-
+![](bmi_calc.gif)
+So, what's about your BMI result? check it out now.🤸‍♀️
 
 
 
