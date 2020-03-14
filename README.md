@@ -5,10 +5,6 @@ It is a multi screen app with simple functionality and beautiful user interface 
 
 Here we see how Flutter gives us the ability to customize our app the way we want, Yaaaaay!💃💃💃
 
-
-See how it looks!😉
-
-![](bmi_calc.gif)
 So, what's about your BMI result? check it out now.🤸‍♀️
 
 
